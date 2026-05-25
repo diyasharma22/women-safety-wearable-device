@@ -10,6 +10,12 @@ An IoT-based wearable emergency alert system designed using ESP32, GPS, and GSM 
 
 ---
 
+## 🌐 Live Demo
+
+[Open Website](https://diyasharma22.github.io/women-safety-wearable-device/)
+
+---
+
 # 📌 Features
 
 - 🚨 One-click SOS emergency alert
