@@ -126,3 +126,7 @@ images/
 # 🎓 Academic Project
 
 Developed at VIT Bhopal University.
+
+---
+
+⭐ Open for learning, academic reference, and innovation purposes.
