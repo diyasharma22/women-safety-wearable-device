@@ -1,13 +1,18 @@
 # Women Safety Wearable Device 🚨
 
+![Wearable Demo](images/wearable-demo.jpeg)
+
 ![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-red?style=for-the-badge)
-
 ![IoT](https://img.shields.io/badge/IoT-Project-blue?style=for-the-badge)
-
 ![GPS](https://img.shields.io/badge/GPS-Tracking-green?style=for-the-badge)
 
 An IoT-based wearable emergency alert system designed using ESP32, GPS, and GSM technologies for real-time safety monitoring and SOS alert transmission.
 
+---
+
+## 🌐 Live Demo
+
+[Open Website](https://diyasharma22.github.io/women-safety-wearable-device/)
 ---
 
 # 📌 Features
@@ -15,10 +20,22 @@ An IoT-based wearable emergency alert system designed using ESP32, GPS, and GSM 
 - 🚨 One-click SOS emergency alert
 - 📍 Real-time GPS tracking
 - 📩 SMS emergency notifications
-- 🌐 Google Maps location sharing
-- 📡 ESP32 communication system
+- 🌐 Google Maps live location sharing
+- 📡 ESP32 wireless communication
 - 💻 Web dashboard integration
 - 🔋 Portable wearable hardware design
+
+---
+
+# 🧰 Technologies Used
+
+- ESP32
+- Arduino IDE
+- Embedded C++
+- GSM Communication
+- GPS Tracking
+- HTML/CSS
+- IoT Systems
 
 ---
 
@@ -65,13 +82,13 @@ An IoT-based wearable emergency alert system designed using ESP32, GPS, and GSM 
 
 ## ESP32 Prototype
 
-![ESP32 Prototype](images/esp32-breadboard.jpeg)
+![ESP32 Prototype](images/esp32-prototype.jpeg)
 
 ---
 
 ## Hardware Closeup
 
-![Hardware Closeup](images/prototype-side-view.jpeg)
+![Hardware Closeup](images/hardware-closeup.jpeg)
 
 ---
 
