@@ -98,8 +98,10 @@ An IoT-based wearable emergency alert system designed using ESP32, GPS, and GSM 
 ```txt
 esp32-code/
 sim800l-code/
-website/
 images/
+index.html/
+script.js/
+style.css/
 ```
 
 ---
