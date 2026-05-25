@@ -1,7 +1,9 @@
 # Women Safety Wearable Device 🚨
 
 ![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-red?style=for-the-badge)
+
 ![IoT](https://img.shields.io/badge/IoT-Project-blue?style=for-the-badge)
+
 ![GPS](https://img.shields.io/badge/GPS-Tracking-green?style=for-the-badge)
 
 An IoT-based wearable emergency alert system designed using ESP32, GPS, and GSM technologies for real-time safety monitoring and SOS alert transmission.
