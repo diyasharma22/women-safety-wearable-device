@@ -108,7 +108,3 @@ images/
 # 🎓 Academic Project
 
 Developed at VIT Bhopal University.
-
----
-
-# ⭐ If you like this project, give it a star!
