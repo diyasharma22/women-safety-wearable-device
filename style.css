@@ -7,9 +7,10 @@ body {
 }
 
 .container {
-    max-width: 950px;
+    width: 90%;
+    max-width: 1000px;
     margin: auto;
-    padding: 40px;
+    padding: 40px 20px;
 }
 
 h1 {
@@ -77,4 +78,19 @@ footer {
     border-top: 1px solid #30363d;
     color: #8b949e;
     text-align: center;
+}
+
+img {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    border-radius: 15px;
+    margin: 20px auto;
+    display: block;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+}
+
+img:hover {
+    transform: scale(1.02);
+    transition: 0.3s ease;
 }
