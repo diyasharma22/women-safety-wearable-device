@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #0d1117;
+    background: #050b18;
     color: white;
     font-family: Arial, sans-serif;
 }
@@ -14,83 +14,97 @@ body {
 }
 
 h1 {
-    color: #58a6ff;
-    font-size: 50px;
+    font-size: 55px;
+    color: #5aa2ff;
     margin-bottom: 10px;
 }
 
 .subtitle {
-    font-size: 20px;
-    line-height: 1.6;
-    color: #c9d1d9;
-    margin-bottom: 35px;
+    font-size: 22px;
+    color: #cccccc;
+    margin-bottom: 40px;
 }
 
 h2 {
+    color: #5aa2ff;
     margin-top: 50px;
-    color: #58a6ff;
-}
-
-.hero-image {
-    width: 100%;
-    border-radius: 18px;
-    margin-top: 20px;
-    margin-bottom: 40px;
-    box-shadow: 0 0 25px rgba(88, 166, 255, 0.25);
-}
-
-.project-image {
-    width: 100%;
-    border-radius: 15px;
-    margin-top: 20px;
-    margin-bottom: 30px;
 }
 
 ul {
-    padding-left: 20px;
-}
-
-ul li {
-    margin-bottom: 12px;
+    line-height: 2;
     font-size: 18px;
-    color: #e6edf3;
 }
 
-button {
-    background: #238636;
-    color: white;
-    border: none;
-    padding: 15px 28px;
-    border-radius: 12px;
-    font-size: 16px;
-    cursor: pointer;
-    transition: 0.3s;
+.project-image {
+    width: 70%;
+    max-width: 650px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    transition: 0.3s ease;
 }
 
-button:hover {
-    background: #2ea043;
-    transform: scale(1.03);
+.project-image:hover {
+    transform: scale(1.02);
 }
 
-footer {
-    margin-top: 70px;
-    padding-top: 20px;
-    border-top: 1px solid #30363d;
-    color: #8b949e;
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #444;
+}
+
+th {
+    background: #102040;
+    color: #5aa2ff;
+    padding: 12px;
+}
+
+td {
+    padding: 12px;
     text-align: center;
 }
 
-img {
-    width: 100%;
-    max-width: 700px;
-    height: auto;
-    border-radius: 15px;
-    margin: 20px auto;
-    display: block;
-    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+button {
+    background: #5aa2ff;
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: 0.3s ease;
 }
 
-img:hover {
-    transform: scale(1.02);
-    transition: 0.3s ease;
+button:hover {
+    background: #3d7edb;
+}
+
+footer {
+    margin-top: 60px;
+    text-align: center;
+    color: #999;
+    font-size: 15px;
+}
+
+@media (max-width: 768px) {
+
+    h1 {
+        font-size: 38px;
+    }
+
+    .subtitle {
+        font-size: 18px;
+    }
+
+    .project-image {
+        width: 95%;
+    }
 }
