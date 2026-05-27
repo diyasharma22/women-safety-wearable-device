@@ -234,7 +234,7 @@ women-safety-wearable-device/
 | Name | GitHub |
 |---|---|
 | Diya Sharma | [@diyasharma22](https://github.com/diyasharma22) |
-| Eipshita Basuli | — |
+| Eipshita Basuli | [@riiverse](https://github.com/riiverse) |
 | Richa Datta | — |
  
 **Institution:** VIT Bhopal University — B.Tech ECE (AI & Cybernetics)
