@@ -10,9 +10,9 @@
 
 An IoT-based wearable emergency alert system. Press one button — ESP32 fetches your
 live GPS coordinates and sends them as a clickable Google Maps link via SMS to
-predefined contacts. **No smartphone. No internet. No app.
+predefined contacts. **No smartphone. No internet. No app.**
 
-SOS in <2s, SMS delivery in 8–12s over 2G GSM — no smartphone or internet required. Resolved SIM800L 2A current spike with AMS1117 + 1000µF.**
+SOS in <2s, SMS delivery in 8–12s over 2G GSM — no smartphone or internet required. Resolved SIM800L 2A current spike with AMS1117 + 1000µF.
 
 ---
 
